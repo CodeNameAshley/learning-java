@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fb5cb84-37fc-4141-9382-7311cdd6c69e" name="Changes" comment="Added MadLibs.java to the project.">
-      <change afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
+    <list default="true" id="9fb5cb84-37fc-4141-9382-7311cdd6c69e" name="Changes" comment="Added Tree.java to the project.">
+      <change afterPath="$PROJECT_DIR$/src/BuildADroid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8c126a41-c2fa-47ac-be13-bed93ee0b614" name="Changes" comment="" />
+      <changelist id="9fb5cb84-37fc-4141-9382-7311cdd6c69e" name="Changes" comment="Added Tree.java to the project." />
       <created>1651609199282</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652735143508</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Tree.java to the project.">
+      <created>1652735259800</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652735259800</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +123,7 @@
     <MESSAGE value="Added Store.java to the project." />
     <MESSAGE value="Added Magic.java to the project." />
     <MESSAGE value="Added MadLibs.java to the project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added MadLibs.java to the project." />
+    <MESSAGE value="Added Tree.java to the project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Tree.java to the project." />
   </component>
 </project>
